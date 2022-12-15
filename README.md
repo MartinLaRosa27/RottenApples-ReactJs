@@ -6,3 +6,5 @@ HTML / CSS / Bootstrap / ReactJs / NodeJs / MySQL / LocalStorage / JWT / Consumo
 
 # Capturas
 ![alt text](https://github.com/MartinLaRosa27/RottenApples-ReactJs/blob/main/recursos/Captura1.png?raw=true)
+![alt text](https://github.com/MartinLaRosa27/RottenApples-ReactJs/blob/main/recursos/Captura2.png?raw=true)
+![alt text](https://github.com/MartinLaRosa27/RottenApples-ReactJs/blob/main/recursos/Captura3.png?raw=true)
