@@ -1,0 +1,121 @@
+/* REGISTRO */
+#registro {
+  min-height: 100vh;
+  background: url("./assets/background.png");
+  background-size: cover;
+}
+
+#registro .formulario {
+  border-radius: 20px;
+}
+
+#registro button {
+  background-color: #d64747;
+  color: black;
+  border: 1px solid black;
+  transition: 0.5s;
+}
+
+#registro button:hover {
+  background-color: black;
+  color: #d64747;
+  border: 1px solid #d64747;
+  transition: 0.5s;
+}
+
+#registro h3 {
+  color: #d64747;
+}
+
+#registro span {
+  color: #d64747;
+}
+
+#registro img {
+  background: rgb(20, 20, 20, 0.6);
+  border-radius: 20px;
+}
+
+/* Header */
+#header img {
+  width: 150px;
+}
+
+#header a {
+  color: whitesmoke !important;
+  transition: 0.5s !important;
+  cursor: pointer;
+}
+
+#header a:hover {
+  color: #d64747 !important;
+}
+
+/* Reviews */
+#reviews {
+  min-height: 100vh;
+}
+
+#reviews h3 {
+  color: #d64747;
+}
+
+#reviews span {
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+#reviews span:hover {
+  color: black;
+}
+
+/* Footer */
+#footer p {
+  margin: 3px;
+  color: #d64747;
+}
+
+/* Mis Reviews */
+#mis_reviews {
+  min-height: 100vh;
+}
+
+#mis_reviews .descartar {
+  margin-left: 10px !important;
+}
+
+#mis_reviews button {
+  background-color: #d64747;
+  color: black;
+  border: 1px solid black;
+  transition: 0.5s;
+}
+
+#mis_reviews button:hover {
+  background-color: black;
+  color: #d64747;
+  border: 1px solid #d64747;
+  transition: 0.5s;
+}
+
+#mis_reviews h3 {
+  color: #d64747;
+}
+
+#mis_reviews label {
+  color: whitesmoke;
+}
+
+#mis_reviews .editar {
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+#mis_reviews .editar:hover {
+  color: #d64747 !important;
+}
+
+#mis_reviews .eliminar {
+  cursor: pointer;
+  transition: 0.5s;
+}
