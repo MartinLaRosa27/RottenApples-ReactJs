@@ -5,3 +5,4 @@ Aplicación Web que tiene como objetivo que los usuarios registrados puedan publ
 HTML / CSS / Bootstrap / ReactJs / NodeJs / MySQL / LocalStorage / JWT / Consumo de API REST / Responsive Design
 
 # Capturas
+https://github.com/MartinLaRosa27/RottenApples-ReactJs/main/recursos/Captura1
